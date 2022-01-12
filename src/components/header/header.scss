@@ -1,0 +1,57 @@
+
+.header{
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    padding: 14px;
+    position: relative;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    
+
+}
+.logo{
+    font-size: 38px;
+    color: rgb(183, 0, 255);
+    font-weight: 850;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.menu{
+    display: -webkit-flex;
+    display: flex;
+    flex: 1;
+    justify-content:flex-end;
+
+    
+}
+.mobile-menu {
+    display: none;
+}
+
+.web-menu {
+    display: flex;
+    display: -webkit-flex;
+}
+
+.menu-icon{
+    display: flex;
+        justify-content: flex-end;
+        font-size: 30px;
+}
+
+@media only screen and (max-width: 720px){
+    .mobile-menu {
+        display: flex;
+    }
+    .web-menu {
+        display: none;
+    }
+    .logo {
+        font-size: 28px;
+    }
+
+}

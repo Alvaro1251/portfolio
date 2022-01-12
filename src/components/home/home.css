@@ -1,0 +1,28 @@
+body{
+    font-family: "Work Sans", sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.home{
+    display: flex;
+    display: -webkit-flex;
+    margin: auto;
+    flex-direction: column;
+    webkit-flex-direction: column;
+    width: 70%;
+}
+
+@media only screen and (max-width: 1024px){
+    .home {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 512px){
+    .home {
+        width: 100%;
+    }
+}
