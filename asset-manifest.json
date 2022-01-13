@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_alvaro_signorio/static/css/main.2f0dce53.css",
+    "main.js": "/portfolio_alvaro_signorio/static/js/main.18860bc6.js",
+    "static/js/787.a90f46fa.chunk.js": "/portfolio_alvaro_signorio/static/js/787.a90f46fa.chunk.js",
+    "static/media/certificadoGuayerd.pdf": "/portfolio_alvaro_signorio/static/media/certificadoGuayerd.8dd231e5b0351c58b98b.pdf",
+    "static/media/programacion.png": "/portfolio_alvaro_signorio/static/media/programacion.1015cba75c55223ecd0f.png",
+    "static/media/instagram.png": "/portfolio_alvaro_signorio/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/gmail.png": "/portfolio_alvaro_signorio/static/media/gmail.26c40547e3a5cceca652.png",
+    "static/media/linkedin.png": "/portfolio_alvaro_signorio/static/media/linkedin.b543965794897027099a.png",
+    "static/media/logo.svg": "/portfolio_alvaro_signorio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio_alvaro_signorio/index.html",
+    "main.2f0dce53.css.map": "/portfolio_alvaro_signorio/static/css/main.2f0dce53.css.map",
+    "main.18860bc6.js.map": "/portfolio_alvaro_signorio/static/js/main.18860bc6.js.map",
+    "787.a90f46fa.chunk.js.map": "/portfolio_alvaro_signorio/static/js/787.a90f46fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f0dce53.css",
+    "static/js/main.18860bc6.js"
+  ]
+}
