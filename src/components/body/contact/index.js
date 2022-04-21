@@ -5,7 +5,7 @@ import Separator from "../../common/separator/index";
 
 function Contact(){
     return(
-        <div className="contact">
+        <div className="contact" id="contact">
             <Separator />
             <label className="section-title">Contacto</label>
             <div className="contact-container">

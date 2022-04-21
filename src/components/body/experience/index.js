@@ -7,7 +7,7 @@ import Separator from "../../common/separator/index"
 function Xp() {
     const data = XpData;
     return(
-        <div className="work">
+        <div className="work" id="work">
             <Separator />
             <label className="section-title">Experiencia Laboral</label>
             <div className="work-list">

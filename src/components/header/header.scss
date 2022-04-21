@@ -13,11 +13,13 @@
 
 }
 .logo{
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Code:wght@500&family=Roboto+Mono:ital,wght@0,100;0,200;0,400;1,100&family=Ubuntu:wght@700&display=swap');
     font-size: 38px;
-    color: rgb(183, 0, 255);
+    color: rgb(176, 8, 243);
     font-weight: 850;
     display: -webkit-flex;
     display: flex;
+    font-family: 'Ubuntu', sans-serif !important;
 }
 
 .menu{
