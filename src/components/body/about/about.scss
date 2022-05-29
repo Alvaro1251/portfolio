@@ -24,21 +24,27 @@
 }
 
 @media only screen and (max-width: 720px) {
-    .about-top {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
+    
+    .about{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 20px;
+    
+        .about-top {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            .about-photo{
+            display: block;
+                .picture {
+                height: 220px;
+                }
+            }
+        }
 
-    .picture {
-        height: 220px;
-    }
-
-    .about {
-        font-size: 20px;
-    }
-
-    .info-name {
-        font-size: 26px;
-    }
+        .info-name {
+            font-size: 26px;
+        }
+        
 }
